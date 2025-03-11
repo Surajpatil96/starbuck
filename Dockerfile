@@ -1,4 +1,4 @@
-<<<<<< HEAD
+<<<<<<< HEAD
 # Use Node.js Alpine base image
 FROM node:alpine
 
